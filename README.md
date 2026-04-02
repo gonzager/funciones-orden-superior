@@ -1,6 +1,11 @@
 # 📊 Funciones como Ciudadanos de Primera Clase en JavaScript
 
 ---
+## 🎥 Recurso recomendado
+
+👉 Video explicativo con resolucion de un ejercicio combinado:
+
+[▶ Ver en YouTube](https://www.youtube.com/watch?v=ZLerQc_cNAg)
 
 ## 🧩 Idea principal
 
